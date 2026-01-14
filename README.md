@@ -1,12 +1,46 @@
-# React + Vite
+# Animated Web Experience (React + GSAP)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern animated web application built using **React** and **GSAP (GreenSock Animation Platform)**.  
+The project focuses on smooth, timeline-based animations and interactive UI motion to deliver an engaging user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Component-based architecture using React
+- High-performance animations using GSAP
+- Timeline-based animation sequencing
+- Staggered animations for UI elements
+- Smooth page and element transitions
+- Responsive and animation-rich UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- React
+- GSAP (GreenSock Animation Platform)
+- JavaScript (ES6+)
+- HTML5
+- CSS3 / Tailwind CSS
+
+---
+
+## 🎬 Animations Implemented
+
+- GSAP Timelines (`gsap.timeline`)
+- Stagger animations
+- Scale, opacity, translate, and rotation effects
+- Entry and exit animations
+- Parent–child animation sequencing
+
+---
+
+## 📂 Project Structure
+
+src/
+├── components/
+├── animations/
+├── pages/
+├── App.jsx
+├── main.jsx
