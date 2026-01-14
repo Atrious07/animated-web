@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@font-face {
+    font-family: font1;
+    src: url(../public/fonts/NeueMachina-Light_gwWCZxVuQl.ttf);
+}
+@font-face {
+    font-family: font2;
+    src: url(../public/fonts/HelveticaNowDisplay-Regular_5Mzhp8KlA8_CAVTbnsPOM.woff2);
+}
+body{
+    overflow-x: hidden;
+}
